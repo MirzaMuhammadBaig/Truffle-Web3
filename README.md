@@ -43,5 +43,4 @@ Get the transaction using web-3-js. Run the node-js script getTx.js present in t
 $ node getTx.js 
 
 Tx is succesfull.
-
 Your added value is 1234567890
