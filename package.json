@@ -1,0 +1,21 @@
+{
+  "name": "sendthenget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^5.5.24"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.6",
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "dotenv": "^16.0.1",
+    "web3": "^1.7.4"
+  }
+}
