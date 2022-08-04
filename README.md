@@ -31,7 +31,7 @@ Before deploying smart contract first you will have to need .env file and that f
 But must memories should be memories that .env should in those folder where sendTx and getTx are placed!!!!!!!
 
 
-Deploying Contract
+Deploying Contract:
 
 $ npx truffle migrate --network rinkeby
 
@@ -41,7 +41,7 @@ Compilation finished successfully and then migration finished succesfully and th
 The contract has been successfully deployed and is ready to be used.
 
 
-Sending transaction to blockchain
+Sending transaction to blockchain:
 
 Send the transaction using web3-js. Run the node-js script sendTx.js present in the scripts folder, using following command:
 
@@ -50,7 +50,7 @@ $ node sendTx.js
 You have successfuly add 1234567890
 
 
-Getting transaction from blockchain
+Getting transaction from blockchain:
 
 Get the transaction using web-3-js. Run the node-js script getTx.js present in the scripts folder, using following command:
 
