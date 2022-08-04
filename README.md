@@ -33,6 +33,7 @@ Sending transaction to blockchain
 Send the transaction using web3-js. Run the node-js script sendTx.js present in the scripts folder, using following command:
 
 $ node sendTx.js 
+
 You have successfuly add 1234567890
 
 Getting transaction from blockchain
@@ -40,5 +41,7 @@ Getting transaction from blockchain
 Get the transaction using web-3-js. Run the node-js script getTx.js present in the scripts folder, using following command:
 
 $ node getTx.js 
+
 Tx is succesfull.
+
 Your added value is 1234567890
