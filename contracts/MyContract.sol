@@ -13,28 +13,3 @@ contract MyContract {
     return myUint;
  }
 }
-
-
-
-
-
-
-
-
-
-
-// contract MyContract {
-//  uint private MyAge;
-
-//  event age(uint myAge);
-
-//  function storeData(uint myAge) public {
-//  MyAge = myAge;
- 
-//  emit age(myAge);
-//  }
-
-//  function Get() public view returns(uint){
-//     return MyAge;
-//  }
-// }
