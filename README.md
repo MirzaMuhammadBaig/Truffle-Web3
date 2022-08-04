@@ -19,7 +19,7 @@ CONTRACT_ADDRESS=""
 
 
 
-Compiling contracts
+Compiling contracts:
 
 To compile the contract run npx hardhat compile in your terminal. The compile task is one of the built-in tasks.
 
