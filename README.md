@@ -3,7 +3,7 @@ Tutorial for truffle-deploy , Send & Get Transaction
 
 1. Setting up the environment
 
-Most Ethereum libraries and tools are written in JavaScript, and one of that is Hardhat. If you're not familiar with Node.js, it's a JavaScript runtime built on Chrome's V8 JavaScript engine. It's the most popular solution to run JavaScript outside of a web browser and truffle is built on second of it.
+Most Ethereum libraries and tools are written in JavaScript, and one of that is truffle. If you're not familiar with Node.js, it's a JavaScript runtime built on Chrome's V8 JavaScript engine. It's the most popular solution to run JavaScript outside of a web browser and truffle is built on it.
 
 
 Installing
