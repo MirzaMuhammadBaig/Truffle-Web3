@@ -15,7 +15,7 @@ async function getUint() {
         web3
         );
 
-    const getUint = await contract.methods.getUint().call({from: address});
+    const getUint = await contract.methods.getUint().call();
     console.log(`Tx is succesfull.`);
     console.log(`Your added value is ${getUint}`)
 
