@@ -28,7 +28,7 @@ Use existing .env files for both scripts:
 
 Before deploying smart contract first you will have to need .env file and that file you will write secret keys like mnemoics, private keys and api-key of your ethereun node. And then you use following steps.
 
-But must .env should be that in those folder where sendTx and getTx are placed!!!!!!!
+Before deploying .env file should be in your main folder and after that, .env should be that in those folder where sendTx and getTx are placed!!!!!!!
 
 
 Deploying Contract:
